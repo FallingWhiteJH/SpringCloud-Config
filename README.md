@@ -1,2 +1,2 @@
-# SpringCloudConfigrationServiceTest
+# SpringCloud-Config
 just a test
